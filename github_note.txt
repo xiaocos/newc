@@ -1,0 +1,3 @@
+安装github for windows
+安装最新framework4.0(登录连接服务器失败执行此项)
+申请github帐号 登录
